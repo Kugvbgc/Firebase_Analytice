@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415133403295",
+    "project_id": "test-302f3",
+    "storage_bucket": "test-302f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415133403295:android:05057e540bd66720a2faaa",
+        "android_client_info": {
+          "package_name": "com.khair.firebase_analytice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsf-u6YKdFJsxA8ubS8PXnKTRrzVf-zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
